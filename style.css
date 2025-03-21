@@ -232,7 +232,7 @@ img {
 .about .experience-badge {
     position: absolute;
     right: 20px;
-    bottom: 20px;
+    bottom: 10px;
     background-color: #198754;
     color: white;
     padding: 15px;
@@ -440,7 +440,7 @@ img {
         height: 170px;
     }
 
-    .experience-badge {
+    .profile-image-container .experience-badge {
         width: 80px;
         height: 80px;
         right: -30px;
