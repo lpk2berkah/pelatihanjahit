@@ -441,9 +441,10 @@ img {
     }
 
     .experience-badge {
-        width: 60px;
-        height: 60px;
-        right: 10px;
+        width: 80px;
+        height: 80px;
+        right: -30px;
+        top: 80px;
     }
 
     .exp-years {
